@@ -1,0 +1,344 @@
+{
+  "root": {
+    "Categories": [
+      {
+        "category_id": 1,
+        "category_name": "Fruits and Vegetables",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 1,
+            "item_name": "apple",
+            "item_Image": "apple.jpg",
+            "item_Description": "Sold in singles (0.13-0.18 kg)",
+            "item_Per_price": "0.59"
+          },
+          {
+            "item_id": 2,
+            "item_name": "avocado",
+            "item_Image": "avocado.jpg",
+            "item_Description": "Sold in pack of 5",
+            "item_Per_price": "3.97"
+          },
+          {
+            "item_id": 3,
+            "item_name": "broccoli",
+            "item_Image": "broccoli.jpg",
+            "item_Description": "Sold in singles (0.30-0.58kg)",
+            "item_Per_price": "2.47"
+          },
+          {
+            "item_id": 4,
+            "item_name": "cauliflower",
+            "item_Image": "cauliflower.jpg",
+            "item_Description": "Sold in singles (0.20-0.45 kg)",
+            "item_Per_price": "3.97"
+          },
+          {
+            "item_id": 5,
+            "item_name": "red grapes",
+            "item_Image": "grapes.jpg",
+            "item_Description": "1 Bag (0.63-1 kg)",
+            "item_Per_price": "5.45"
+          },
+          {
+            "item_id": 6,
+            "item_name": "green onion",
+            "item_Image": "green_onion.jpg",
+            "item_Description": "Sold in bunches",
+            "item_Per_price": "0.97"
+          },
+          {
+            "item_id": 7,
+            "item_name": "tomato",
+            "item_Image": "tomato.jpg",
+            "item_Description": "Sold in singles (0.10-0.14 kg)",
+            "item_Per_price": "1.21"
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "category_name": "Bakery",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 8,
+            "item_name": "Bagels",
+            "item_Image": "bagels.jpg",
+            "item_Description": "Dempster's Everything Bagels (450g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 9,
+            "item_name": "Burger Buns",
+            "item_Image": "burger_buns.jpg",
+            "item_Description": "Dempster's Deluxe The Classic Burger (568g)",
+            "item_Per_price": "3.97"
+          },
+          {
+            "item_id": 10,
+            "item_name": "Cupcakes",
+            "item_Image": "cupcakes.jpg",
+            "item_Description": "Hostess Chocolate Cupcake (206g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 11,
+            "item_name": "Hotdog Buns",
+            "item_Image": "hotdog_buns.jpg",
+            "item_Description": "Dempster's Origibal Hotdog Buns (376g)",
+            "item_Per_price": "2.47"
+          },
+          {
+            "item_id": 12,
+            "item_name": "Banana Sliced Cake",
+            "item_Image": "sliced_cake.jpg",
+            "item_Description": "Your Fresh Market Banana Sliced Loaf Cake (454g)",
+            "item_Per_price": "4.00"
+          },
+          {
+            "item_id": 13,
+            "item_name": "Tortillas",
+            "item_Image": "tortillas.jpg",
+            "item_Description": "Dempster�s Original 10� Tortillas (610g)",
+            "item_Per_price": "4.07"
+          },
+          {
+            "item_id": 14,
+            "item_name": "Cake",
+            "item_Image": "twinkies_cake.jpg",
+            "item_Description": "Hostess Twinkies Cakes (202g)",
+            "item_Per_price": "2.97"
+          }
+        ]
+      },
+      {
+        "category_id": 3,
+        "category_name": "Chips & Snacks",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 15,
+            "item_name": "Crackers",
+            "item_Image": "crackers.jpg",
+            "item_Description": "RITZ Original Crackers (200g)",
+            "item_Per_price": "2.47"
+          },
+          {
+            "item_id": 16,
+            "item_name": "Granola Bar",
+            "item_Image": "granola_bar.jpg",
+            "item_Description": "Great Value Chocolate Dipped Granola Bars, Family Size (18 Bars/558g)",
+            "item_Per_price": "3.97"
+          },
+          {
+            "item_id": 17,
+            "item_name": "Lays",
+            "item_Image": "lays.jpg",
+            "item_Description": "Lay's Classic Potato Chips (235g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 18,
+            "item_name": "Butter Cookies",
+            "item_Image": "milk_chocolate.jpg",
+            "item_Description": "Celebration Milk Chocolate Top Butter Caramel Truffle Cookies (240g)",
+            "item_Per_price": "2.47"
+          },
+          {
+            "item_id": 19,
+            "item_name": "Nachos",
+            "item_Image": "nachos.jpg",
+            "item_Description": "Doritos Nacho Cheese Tortilla Chips (255g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 20,
+            "item_name": "Oreo",
+            "item_Image": "oreo.jpg",
+            "item_Description": "OREO Original Sandwich Cookies (303g)",
+            "item_Per_price": "2.27"
+          },
+          {
+            "item_id": 21,
+            "item_name": "Kracks",
+            "item_Image": "potato_chips.jpg",
+            "item_Description": "Kracks Original Chips (100g)",
+            "item_Per_price": "1.47"
+          }
+        ]
+      },
+      {
+        "category_id": 4,
+        "category_name": "Dairy & Eggs",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 22,
+            "item_name": "Cheddar Cheese",
+            "item_Image": "cheddar_cheese.jpg",
+            "item_Description": "Great Value Old Cheddar Cheese (400g)",
+            "item_Per_price": "5.77"
+          },
+          {
+            "item_id": 23,
+            "item_name": "Eggs",
+            "item_Image": "eggs.jpg",
+            "item_Description": "Gray Ridge Premium Large White Eggs (18 Count)",
+            "item_Per_price": "5.27"
+          },
+          {
+            "item_id": 24,
+            "item_name": "Fairlife Milk",
+            "item_Image": "milk.jpg",
+            "item_Description": "Fairlife 2% Ultrafiltered Milk 1.5L Bottle",
+            "item_Per_price": "4.67"
+          },
+          {
+            "item_id": 25,
+            "item_name": "Sealtest Milk",
+            "item_Image": "sealtest.jpg",
+            "item_Description": "Sealtest Partly Skimmed 1% Milk (4L Bag)",
+            "item_Per_price": "4.49"
+          },
+          {
+            "item_id": 26,
+            "item_name": "Shredded Cheese",
+            "item_Image": "Shredded_cheese.jpg",
+            "item_Description": "Great Value Shredded Nacho Cheese Blend (320g)",
+            "item_Per_price": "5.67"
+          },
+          {
+            "item_id": 27,
+            "item_name": "Sour Cream",
+            "item_Image": "sour_cream.jpg",
+            "item_Description": "Gay Lea Foods Gay Lea Sour Cream 14% M.F. (500ml)",
+            "item_Per_price": "1.97"
+          },
+          {
+            "item_id": 28,
+            "item_name": "Yogurt",
+            "item_Image": "Yogurt.jpg",
+            "item_Description": "Astro Original Balkan Style Yogurt (750g)",
+            "item_Per_price": "2.77"
+          }
+        ]
+      },
+      {
+        "category_id": 5,
+        "category_name": "Drinks",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 29,
+            "item_name": "Apple Juice",
+            "item_Image": "apple_juice.jpg",
+            "item_Description": "Great Value 100% Pure Apple Juice from Concentrate (1L)",
+            "item_Per_price": "1.00"
+          },
+          {
+            "item_id": 30,
+            "item_name": "Coca-Cola",
+            "item_Image": "coca_cola.jpg",
+            "item_Description": "Coca-Cola 2L Bottle",
+            "item_Per_price": "1.97"
+          },
+          {
+            "item_id": 31,
+            "item_name": "Monster",
+            "item_Image": "monster.jpg",
+            "item_Description": "MONSTER ENERGY Green, Can (473ml)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 32,
+            "item_name": "Orange Juice",
+            "item_Image": "orange_juice.jpg",
+            "item_Description": "Great Value Orange No pulp Juice from Concentrate (1.75L)",
+            "item_Per_price": "2.17"
+          },
+          {
+            "item_id": 33,
+            "item_name": "Pepsi",
+            "item_Image": "pepsi.jpg",
+            "item_Description": "Pepsi, 1L Bottle",
+            "item_Per_price": "1.00"
+          },
+          {
+            "item_id": 34,
+            "item_name": "Redbull",
+            "item_Image": "redbull.jpg",
+            "item_Description": "Red Bull Energy Drink (250ml)",
+            "item_Per_price": "2.67"
+          },
+          {
+            "item_id": 35,
+            "item_name": "Starbucks Coffe",
+            "item_Image": "starbucks.jpg",
+            "item_Description": "Starbucks Mocha Frappuccino (450ml)",
+            "item_Per_price": "2.97"
+          }
+        ]
+      },
+      {
+        "category_id": 6,
+        "category_name": "Frozen Food",
+        "Category_image": "",
+        "Category_items": [
+          {
+            "item_id": 36,
+            "item_name": "Crinkle Cut ",
+            "item_Image": "crinkle_cut.jpg",
+            "item_Description": "McCain Crinkle Cut Fries (900g)",
+            "item_Per_price": "1.96"
+          },
+          {
+            "item_id": 37,
+            "item_name": "Frozen Pizza",
+            "item_Image": "frozen_pizza.jpg",
+            "item_Description": "Dr. Oetker Ristorante Pizza Quattro Formaggi (340g)",
+            "item_Per_price": "4.45"
+          },
+          {
+            "item_id": 38,
+            "item_name": "Green peas",
+            "item_Image": "Greenpeas.jpg",
+            "item_Description": "Great Value Grade A Green Peas (750g)",
+            "item_Per_price": "1.98"
+          },
+          {
+            "item_id": 39,
+            "item_name": "Hashbrowns",
+            "item_Image": "hashbrowns.jpg",
+            "item_Description": "McCain Potato Patties (1.3kg)",
+            "item_Per_price": "3.97"
+          },
+          {
+            "item_id": 40,
+            "item_name": "Macroni",
+            "item_Image": "macroni.jpg",
+            "item_Description": "STOUFFER'S Macaroni & Cheese (340g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 41,
+            "item_name": "Meat Lasagna",
+            "item_Image": "meat_lasagna.jpg",
+            "item_Description": "STOUFFER'S Meat Lasagna (286g)",
+            "item_Per_price": "2.97"
+          },
+          {
+            "item_id": 42,
+            "item_name": "Mixed Veggetable",
+            "item_Image": "mixed_vegetable.jpg",
+            "item_Description": "Great Value Mixed Vegetables (2kg)",
+            "item_Per_price": "3.98"
+          }
+        ]
+      }
+    ],
+    "message": "images acquired successfully",
+    "status": 101
+  }
+}
